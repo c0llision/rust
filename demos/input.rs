@@ -17,4 +17,5 @@ fn main() {
 
     let area_circle: f32 = calc_area_circle(radius);
     println!("Area of circle with radius {} is : {}", radius, area_circle);
+    println!("lol!");
 }
